@@ -18,6 +18,6 @@ $
 ```
 ## Authors :black_nib:
 * Emmanuel Oguneko ![darionnuel](https://github.com/darionnuel)
-* Nelson Odemero ![Linsmed](https://github.com/linsmed)
+* Ejibode Ibraheem Adewale ![Linsmed](https://github.com/linsmed)
 
 
